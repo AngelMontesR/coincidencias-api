@@ -1,0 +1,13 @@
+package spring.duplicados;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DuplicadosApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(DuplicadosApplication.class, args);
+    }
+
+}
